@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**dev-bbori/dev-bbori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dev-ddokddak/dev-ddokddak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sein's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
 </div>
 ## Profile
-👩 김보령 <br>
-👶 1990.03.17 <br>
-📞 010-5807-3170 <br>
+👩 조현상 <br>
+👶 1994.12.12 <br>
+📞 010-7297-0766 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:seinee114@gmail.com) <span><a href="https://www.notion.so/616157e577c54c20a04f242238e67801"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:seinee114@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
