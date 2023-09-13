@@ -3,8 +3,8 @@
 </div>
 <h3 align="center">Hi! I'm HyunSang </h3>
 <p align="center">
-  <a href="dev.imoong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.imoong@gmail.com)](mailto:dev.imoong@gmail.com)"/></a>&nbsp
-<a href="https://dev-imoong.notion.site/de63e297c5e04ea9a16c7a07e11fcfcb?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+  <a href="pronounce12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pronounce12@gmail.com)](mailto:pronounce12@gmail.com)"/></a>&nbsp
+<a href="https://www.notion.so/DEV-Dookddak-f6152b2549264054ad6dc7c11378be32"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 <h4 align="center"> </h4>
 <br>
 
