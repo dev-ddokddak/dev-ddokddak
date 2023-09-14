@@ -1,6 +1,5 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ddokddak's%20Github&fontSize=55&fontAlign=50&fontAlignY=40&color=gradient"  style ="width : 1000px; height:400px"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ddokddak's%20Github&fontSize=55&fontAlign=50&fontAlignY=40&color=gradient"  style ="width : 1000px; height:400px"/>
+
 <h3 align="center">Hi! I'm HyunSang </h3>
 <p align="center">
   <a href="pronounce12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pronounce12@gmail.com)](mailto:pronounce12@gmail.com)"/></a>&nbsp
