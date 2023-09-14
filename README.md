@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ddokddak's%20Github&fontSize=55&fontAlign=50&fontAlignY=40&color=gradient"  style ="width : 1000px; height:400px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ddokddak's%20Github&fontSize=55&fontAlign=50&fontAlignY=40&color=gradient"  style ="width : 1000px; height:400px; margin:0px; padding:0px;"/>
 
 <h3 align="center">Hi! I'm HyunSang </h3>
 <p align="center">
