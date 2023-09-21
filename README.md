@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=220&section=header&text=DDokDDak&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff)
 
 
-<h3 align="center">Hi! I'm HyunSang </h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />Hi! I'm HyunSang </h3>
 <p align="center">
   <a href="pronounce12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pronounce12@gmail.com)](mailto:pronounce12@gmail.com)"/></a>&nbsp
 <a href="https://www.notion.so/DEV-Dookddak-f6152b2549264054ad6dc7c11378be32"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 <h4 align="center"> </h4>
 <br>
 
-<h2 align="center">🛠️Tech Stack🛠️</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />Tech Stack</h2>
 <p align="center"> 
   
 | Back-End | Front-End | Database | IDE |
@@ -28,6 +28,6 @@
 
   
   
-<h2 align="center"> ✨My Github Stats✨ </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" />My Github Stats </h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-ddokddak&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ddokddak&layout=compact"></p>
   
