@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=220&section=header&text=DdokDdak&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=220&section=header&text=DDokDDak&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff)
 
 
 <h3 align="center">Hi! I'm HyunSang </h3>
