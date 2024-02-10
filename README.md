@@ -28,9 +28,6 @@
 
   
   
-<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" />My Github Stats </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-ddokddak&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ddokddak&layout=compact"></p>
-
 # ![DDokDDak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ddokddak&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ddokddak&hide_progress=true)](https://github.com/dev-ddokddak/github-readme-stats)  
 
   
